@@ -8,7 +8,6 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-OengDida-111827?style=for-the-badge&logo=github)](https://github.com/OengDida)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oeng-dida-2539b7436/)
 [![Followers](https://img.shields.io/github/followers/OengDida?style=for-the-badge&logo=github&color=8B5CF6)](https://github.com/OengDida?tab=followers)
 
