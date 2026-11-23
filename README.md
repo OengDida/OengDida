@@ -56,12 +56,10 @@ I'm passionate about technology, software development, and building applications
 </div>
 
 ### 🧭 SmartRoute AI
-An intelligent trip planner for Cambodia. Plan routes, estimate travel costs and vehicle range, and discover fuel stations and EV charging points.
 
 [Live Demo](https://smartroute-dev.vercel.app) · [Source Code](https://github.com/OengDida/SmartRoute-AI)
 
 ### 🌱 Strawping
-My first ever project.
 
 [Live Demo](https://strawping.vercel.app) · [Source Code](https://github.com/OengDida/Strawping)
 
