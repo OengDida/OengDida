@@ -1,75 +1,109 @@
-# Hey there! 👋 I'm Oeng Dida
+ <div align="center">
 
-### IT Student | Aspiring Software Engineer | Tech Enthusiast 🇰🇭
+# OENG DIDA
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;IT+Student+at+NUM;Learning+and+Building+Every+Day;Turning+Ideas+Into+Reality." alt="Typing SVG" />
-</p>
+### IT STUDENT · ASPIRING SOFTWARE ENGINEER · TECH ENTHUSIAST 🇰🇭
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Learning+to+build+something+meaningful.;Turning+ideas+into+real+projects.;Always+learning.+Always+building." />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-OengDida-111827?style=for-the-badge&logo=github)](https://github.com/OengDida)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oeng-dida-2539b7436/)
+[![Followers](https://img.shields.io/github/followers/OengDida?style=for-the-badge&logo=github&color=8B5CF6)](https://github.com/OengDida?tab=followers)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying Information Technology at **National University of Management (NUM)**, Cambodia.
+Hi! I'm **Oeng Dida**, an Information Technology student at the **National University of Management (NUM)** in Cambodia.
+
+I'm passionate about technology, software development, and building applications that solve real-world problems.
+
+- 🎓 Studying Information Technology at NUM.
 - 💻 Interested in Software Engineering, Web Development, Mobile Development, and Cybersecurity.
 - 🌱 Currently developing my programming and problem-solving skills.
-- 🚀 Enjoy building projects that solve real-world problems.
+- 🚀 Enjoy turning ideas into practical projects.
 - 🎯 Working towards becoming a skilled software engineer.
 - 🇰🇭 Based in Cambodia.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-**Currently Learning & Exploring**
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp" alt="Programming Languages" />
-</p>
+<a href="https://github.com/OengDida/SmartRoute-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OengDida&repo=SmartRoute-AI&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/OengDida/Strawping">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OengDida&repo=Strawping&theme=tokyonight&hide_border=true" />
+</a>
 
-**Tools & Development Environment**
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Development Tools" />
-</p>
+### 🧭 SmartRoute AI
+An intelligent trip planner for Cambodia. Plan routes, estimate travel costs and vehicle range, and discover fuel stations and EV charging points.
+
+[Live Demo](https://smartroute-dev.vercel.app) · [Source Code](https://github.com/OengDida/SmartRoute-AI)
+
+### 🌱 Strawping
+My first ever project.
+
+[Live Demo](https://strawping.vercel.app) · [Source Code](https://github.com/OengDida/Strawping)
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
+
+**Languages & Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp&theme=dark" />
+</p>
+
+**Tools & Environment**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/OengDida/OengDida/main/insights.svg"
-    width="100%"
-    alt="OengDida GitHub Insights"
-  />
-  </p>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OengDida&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OengDida&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=OengDida&theme=tokyo-night&hide_border=true&area=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=OengDida&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p>
-  <a href="https://github.com/OengDida">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/oeng-dida-2539b7436/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/OengDida)
 
-<p align="center">
-  <i>"Every expert was once a beginner."</i>
-  <br/><br/>
-  ⭐ Thanks for visiting my profile!
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=OengDida&style=flat-square&color=36BCF7" alt="Profile Views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oeng-dida-2539b7436/)
+
+<br/>
+
+### "Every expert was once a beginner."
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
