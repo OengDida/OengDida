@@ -32,15 +32,27 @@ I'm passionate about technology, software development, and building applications
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <a href="https://github.com/OengDida/SmartRoute-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=OengDida&repo=SmartRoute-AI&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/OengDida/Strawping">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=OengDida&repo=Strawping&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OengDida&repo=SmartRoute-AI&theme=tokyonight&hide_border=true&description_lines_count=2" width="100%" />
 </a>
 
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/OengDida/Strawping">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OengDida&repo=Strawping&theme=tokyonight&hide_border=true&description_lines_count=2" width="100%" />
+</a>
+
+</td>
+</tr>
+</table>
 </div>
 
 ### 🧭 SmartRoute AI
