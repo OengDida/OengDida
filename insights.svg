@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+<title id="title">OengDida GitHub Insights</title>
+<desc id="desc">Dark GitHub analytics dashboard showing repository, contribution, star, follower, development activity and language distribution sections.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1020"/>
+    <stop offset="1" stop-color="#0b1224"/>
+  </linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22c7f2"/>
+    <stop offset="1" stop-color="#62d8ff"/>
+  </linearGradient>
+  <style>
+    .font{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
+    .heading{fill:#f1f5f9;font-size:25px;font-weight:750;letter-spacing:.2px}
+    .sub{fill:#94a8c4;font-size:17px;font-weight:450}
+    .label{fill:#91a8c8;font-size:18px;font-weight:500;letter-spacing:.2px}
+    .value{fill:#62d8ff;font-size:38px;font-weight:750}
+    .muted{fill:#98a9c1;font-size:18px}
+    .line{stroke:#293750;stroke-width:1.5}
+    .card{fill:#151f35}
+  </style>
+</defs>
+
+<rect x="1" y="1" width="1198" height="818" rx="26" fill="url(#bg)" stroke="#354258" stroke-width="1.5"/>
+
+<!-- Header -->
+<text class="font heading" x="30" y="52">OENGDIDA / GITHUB INSIGHTS</text>
+<text class="font sub" x="30" y="98">DEVELOPER ANALYTICS · PUBLIC PROFILE</text>
+<rect x="1058" y="25" width="112" height="34" rx="17" fill="#063b2b"/>
+<circle cx="1078" cy="42" r="4" fill="#19d68a">
+  <animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/>
+</circle>
+<text class="font" x="1092" y="48" fill="#19d68a" font-size="15" font-weight="700">PROFILE</text>
+
+<!-- Stat cards -->
+<g>
+  <rect class="card" x="30" y="126" width="552" height="142" rx="20"/>
+  <rect class="card" x="598" y="126" width="572" height="142" rx="20"/>
+  <rect class="card" x="30" y="280" width="552" height="142" rx="20"/>
+  <rect class="card" x="598" y="280" width="572" height="142" rx="20"/>
+
+  <text class="font label" x="52" y="164">REPOSITORIES</text>
+  <text class="font value" x="52" y="218">—</text>
+  <text class="font muted" x="52" y="248">Total public projects</text>
+
+  <text class="font label" x="620" y="164">CONTRIBUTIONS</text>
+  <text class="font value" x="620" y="218">—</text>
+  <text class="font muted" x="620" y="248">Activity · last 12 months</text>
+
+  <text class="font label" x="52" y="318">TOTAL STARS</text>
+  <text class="font value" x="52" y="372">—</text>
+  <text class="font muted" x="52" y="402">Stars across public repositories</text>
+
+  <text class="font label" x="620" y="318">FOLLOWERS</text>
+  <text class="font value" x="620" y="372">—</text>
+  <text class="font muted" x="620" y="402">GitHub community</text>
+</g>
+
+<path class="line" d="M30 454H1170"/>
+
+<!-- Development activity -->
+<text class="font heading" x="30" y="510">DEVELOPMENT ACTIVITY</text>
+<g class="font" font-size="20" fill="#b6c5da">
+  <text x="30" y="566">Commits</text>
+  <text x="30" y="620">Pull requests</text>
+  <text x="30" y="674">Issues</text>
+  <text x="30" y="728">Code reviews</text>
+</g>
+<g class="font" font-size="25" font-weight="700" fill="#e2e8f0" text-anchor="end">
+  <text x="1170" y="566">—</text>
+  <text x="1170" y="620">—</text>
+  <text x="1170" y="674">—</text>
+  <text x="1170" y="728">—</text>
+</g>
+
+<path class="line" d="M30 758H1170"/>
+
+<!-- Language distribution -->
+<text class="font heading" x="30" y="812">LANGUAGE DISTRIBUTION</text>
+<g>
+  <rect x="30" y="838" width="1140" height="14" rx="7" fill="#46546b"/>
+  <path d="M37 838H445V852H37Q30 852 30 845Q30 838 37 838Z" fill="#36bdf2"/>
+  <rect x="449" y="838" width="284" height="14" fill="#a78bfa"/>
+  <rect x="737" y="838" width="144" height="14" fill="#34d399"/>
+  <path d="M885 838H1163Q1170 838 1170 845Q1170 852 1163 852H885Z" fill="#46546b"/>
+</g>
+<text class="font muted" x="30" y="884" font-size="15">Language bar is a visual placeholder. Connect a live stats service to show your actual distribution.</text>
+
+<!-- Footer -->
+<text class="font" x="30" y="895" fill="#8da4c5" font-size="10">OENGDIDA · GITHUB ANALYTICS</text>
+</svg>
