@@ -32,8 +32,6 @@ I'm passionate about technology, software development, and building applications
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 <div align="center">
 <table>
 <tr>
