@@ -42,12 +42,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OengDida&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oeng Dida's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OengDida&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=OengDida&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/OengDida/OengDida/main/insights.svg"
+    width="100%"
+    alt="OengDida GitHub Insights"
+  />
+  </p>
 </p>
 
 ---
