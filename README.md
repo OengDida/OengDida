@@ -37,17 +37,6 @@
 
 ## 🚀 Projects
 
-### 🗺️ SmartRoute AI
-
-An intelligent inter-provincial trip planning and optimization application designed for Cambodia.
-
-- 🛣️ Highway route planning between provinces.
-- ⛽ Fuel and EV charging station discovery.
-- 💰 Trip cost estimation and optimization.
-- 📍 Interactive mapping and navigation.
-
-*Status: In development / portfolio project.*
-
 ---
 
 ## 📊 GitHub Statistics
